@@ -13,3 +13,8 @@ This project allows you to encrypt and decrypt texts using rotations from 1 to 2
 ~~~bash
 ./rot.sh "encryptedtext"
 ~~~
+## Getting Started
+1. Clone the repository:
+~~~ bash
+git clone https://github.com/rn0x7f/rot
+~~~
