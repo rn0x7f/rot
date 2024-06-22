@@ -10,3 +10,6 @@ This project allows you to encrypt and decrypt texts using rotations from 1 to 2
 ~~~bash
 ./rot.sh encryptedtext
 ~~~
+~~~bash
+./rot.sh "encryptedtext"
+~~~
