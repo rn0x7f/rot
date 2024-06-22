@@ -18,3 +18,15 @@ This project allows you to encrypt and decrypt texts using rotations from 1 to 2
 ~~~ bash
 git clone https://github.com/rn0x7f/rot
 ~~~
+2. **Navigate to the project directory**:
+~~~ bash
+cd rot
+~~~
+3. **Make the script executable**:
+~~~ bash
+chmod +x rot.sh
+~~~
+4. **Run the script with your encrypted text**:
+~~~ bash
+./rot.sh "yourencryptedtext"
+~~~
