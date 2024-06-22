@@ -5,3 +5,8 @@ This project allows you to encrypt and decrypt texts using rotations from 1 to 2
 ## Features
 * **Automatic Decryption**: Attempts to decrypt the given text using every possible rotation (1-25).
 * **Command-Line Interface**: Simple usage via the command line.
+## Usage
+1. Decryption: Run the script with the encrypted text as an argument:
+~~~bash
+./rot.sh encryptedtext
+~~~
